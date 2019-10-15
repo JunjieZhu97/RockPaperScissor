@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Problem 2</string>
+    <string name="tvyourmove">Your Move</string>
+    <string name="tv_computermove">Computer Move</string>
+    <string name="btn_rock">Rock</string>
+    <string name="btn_paper">Paper</string>
+    <string name="btn_scissor">Scissor</string>
+</resources>
